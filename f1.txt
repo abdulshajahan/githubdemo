@@ -1,1 +1,2 @@
 1st file contenet line1
+new feature added line2
