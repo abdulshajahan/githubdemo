@@ -1,2 +1,3 @@
 1st file contenet line1
 new feature added line2
+line 3 added to create conflict
